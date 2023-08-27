@@ -1,4 +1,4 @@
-package QuizeApplication;
+package QuizApplication;
 
 import javax.swing.*;
 import java.awt.*;
